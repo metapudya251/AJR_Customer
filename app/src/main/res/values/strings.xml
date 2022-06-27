@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AJR</string>
+    <string name="loading_text">Loading...</string>
+
+    <!-- exit alert -->
+    <string name="exit_confirm">Apakah anda yakin?</string>
+    <string name="yes">Yes</string>
+
+</resources>
